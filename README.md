@@ -1,5 +1,9 @@
 This is react-redux basics.
 
+**Note:** Pushing data from react to redux ---> useDispatch(). Pull the data from the Store to react component, useSelector(). We need to create slice, plug it into the store, take that store and wrap it APP.js with Provider from react-redux.
+
+<img src="./src/assets/redux.png" alt="redux">
+
 https://redux-toolkit.js.org/tutorials/quick-start
 
 # Installation
